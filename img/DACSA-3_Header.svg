@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3849"
+   height="914"
+   viewBox="0 0 1018.3812 241.82917"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="DACSA-3_Header.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1848.7286"
+     inkscape:cy="596.32106"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,3849"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1018.3812,0"
+       orientation="-914,0"
+       id="guide12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1018.3812,241.82916"
+       orientation="0,-3849"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,241.82916"
+       orientation="914,0"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="509.95023,332.4833"
+       orientation="1,0"
+       id="guide20"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid36" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-55.170817)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="320.72345"
+       y="82.11528"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="320.72345"
+         y="127.20642"
+         style="stroke-width:0.26458332"></tspan><tspan
+         sodipodi:role="line"
+         x="320.72345"
+         y="190.70642"
+         style="stroke-width:0.26458332"
+         id="tspan26" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="250.16428"
+       y="132.36195"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         x="250.16428"
+         y="177.45309"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="513.15753"
+       y="175.12509"
+       id="text34"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         x="513.15759"
+         y="175.12509"
+         style="font-size:141.1111145px;stroke-width:0.26458332">DACSA-3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="508.88116"
+       y="229.64807"
+       id="text40"><tspan
+         sodipodi:role="line"
+         x="508.88116"
+         y="229.64807"
+         style="stroke-width:0.26458332;font-size:45.86111111px"
+         id="tspan42">Domestic and Community Skills Assessment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="508.88116"
+       y="278.82565"
+       id="text48"><tspan
+         sodipodi:role="line"
+         id="tspan46"
+         x="508.88116"
+         y="278.82565"
+         style="stroke-width:0.26458332;font-size:38.80555959px">Third Edition</tspan></text>
+  </g>
+</svg>
