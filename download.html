@@ -10,7 +10,7 @@ h1, h6 {text-align: center;}
 <div class="w3-content">
 <h1>Download the DACSA-3</h1>
 <h5 class="w3-padding-8">Please complete the following form to obtain a download link for the Domestic and Community Skills Assessment, Third Edition (DACSA-3). You do not need to sign into a Google account. The DACSA-3 folder contains the DACSA-3 manual and resources, which can be used with any PDF Reader and Microsoft Word. Please download the DACSA-3 folder to your computer for use, as it cannot be used online. <br></h5>
-<h6><i>If you have previously completed this form, then please see the bottom of this page.</i></h6>
+<h6><i>If you have previously completed this form (or unable), then please see the bottom of this page.</i></h6>
 </div>
 </div>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfHOMfyoqTmX7mqJkFUucbwoMLJifLDbg4YHeV9lntAph2dpA/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
@@ -24,12 +24,16 @@ h1, h6 {text-align: center;}
 
     <input type="checkbox" id="no" onclick="selectOnlyOne(this)">
     <label for="no">No</label>
+    <br>
+
+    <input type="checkbox" id="unable" onclick="selectOnlyOne(this)">
+    <label for="unable">Unable</label>
     <br><br>
 
     <button class="w3-button w3-black w3-padding-8" onclick="checkAnswer()">Confirm</button>
     <br>
     <div id="response"></div>
-    <br><br><br><br>
+    <br><br><br><br><br>
 </div>
 </div>
 
@@ -47,6 +51,7 @@ h1, h6 {text-align: center;}
         function checkAnswer() {
             const yes = document.getElementById("yes").checked;
             const no = document.getElementById("no").checked;
+            const unable = document.getElementById("unable").checked;
             const response = document.getElementById("response");
 
             if (yes) {
@@ -54,6 +59,10 @@ h1, h6 {text-align: center;}
                     'Thank you! You can download the DACSA-3 via the link below:<br>' +
                     '<a href="https://drive.google.com/drive/folders/1MabRKms_VQUx01-hEFf2OX7meJU4lVup?usp=sharing" target="_blank">' +
                     'https://drive.google.com/drive/folders/1MabRKms_VQUx01-hEFf2OX7meJU4lVup?usp=sharing' +
+                    '</a><br>' +
+                    'or alternative direct download link:<br>' +
+                    '<a href="https://github.com/neilwoodroffe/DACSA-3_Folder/archive/refs/heads/main.zip" target="_blank">' +
+                    'https://github.com/neilwoodroffe/DACSA-3_Folder/archive/refs/heads/main.zip' +
                     '</a>';
 
                 // response.style.color = "green";
@@ -63,6 +72,14 @@ h1, h6 {text-align: center;}
                     'Please complete the form before proceeding.';
 
                 // response.style.color = "red";
+
+            } else if (unable) {
+                response.innerHTML =
+                    'Please complete the form later.<br>' +
+                    'See alternative direct download link below:<br>' +
+                    '<a href="https://github.com/neilwoodroffe/DACSA-3_Folder/archive/refs/heads/main.zip" target="_blank">' +
+                    'https://github.com/neilwoodroffe/DACSA-3_Folder/archive/refs/heads/main.zip' +
+                    '</a>';    
 
             } else {
                 response.innerHTML =
